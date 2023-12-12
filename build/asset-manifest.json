@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e201c66.chunk.css",
+    "main.js": "/static/js/main.df14a29e.chunk.js",
+    "main.js.map": "/static/js/main.df14a29e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd1c4e13.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd1c4e13.js.map",
+    "static/js/2.75747ae1.chunk.js": "/static/js/2.75747ae1.chunk.js",
+    "static/js/2.75747ae1.chunk.js.map": "/static/js/2.75747ae1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7fac6aa194246a7b59e999ef9b23c0d2.js": "/precache-manifest.7fac6aa194246a7b59e999ef9b23c0d2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7e201c66.chunk.css.map": "/static/css/main.7e201c66.chunk.css.map",
+    "static/js/2.75747ae1.chunk.js.LICENSE.txt": "/static/js/2.75747ae1.chunk.js.LICENSE.txt",
+    "static/media/bigOfferBg.webp": "/static/media/bigOfferBg.b969262b.webp",
+    "static/media/forBoys.png": "/static/media/forBoys.fe8b35e7.png",
+    "static/media/forGirl.png": "/static/media/forGirl.6f60e0b8.png",
+    "static/media/galleryFive.png": "/static/media/galleryFive.688011ae.png",
+    "static/media/galleryFour.png": "/static/media/galleryFour.7ee3bdc1.png",
+    "static/media/galleryOne.png": "/static/media/galleryOne.dabd4b71.png",
+    "static/media/gallerySix.png": "/static/media/gallerySix.11dc41bb.png",
+    "static/media/galleryThree.png": "/static/media/galleryThree.27bfe886.png",
+    "static/media/galleryTwo.png": "/static/media/galleryTwo.ee2b9bbb.png",
+    "static/media/iconFour.svg": "/static/media/iconFour.83e019f1.svg",
+    "static/media/iconOne.svg": "/static/media/iconOne.9b99e187.svg",
+    "static/media/iconThree.svg": "/static/media/iconThree.f93ab236.svg",
+    "static/media/iconTwo.svg": "/static/media/iconTwo.a609d5e7.svg",
+    "static/media/mainBgOne.png": "/static/media/mainBgOne.2cc645e7.png",
+    "static/media/offerBg.png": "/static/media/offerBg.ce06d1b1.png",
+    "static/media/teamOne.png": "/static/media/teamOne.69074cb0.png",
+    "static/media/teamThree.png": "/static/media/teamThree.0f869951.png",
+    "static/media/teamTwo.png": "/static/media/teamTwo.2649ade7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd1c4e13.js",
+    "static/js/2.75747ae1.chunk.js",
+    "static/css/main.7e201c66.chunk.css",
+    "static/js/main.df14a29e.chunk.js"
+  ]
+}
